@@ -1,0 +1,12 @@
+<html>
+	<style>
+		p {
+			font-size:16px;
+			font-family: "Microsoft YaHei";
+			text-align:left;
+		}
+	</style>
+	<body>
+		<p><img src="cid:0" width="1500px"></p>
+	</body>
+</html>
